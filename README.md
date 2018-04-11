@@ -31,10 +31,10 @@ Let's build an app that does just that. We'll need our app to grab:
 
 We've talked about different data types. We've shown you how to view documentation. We've demonstrated how to build this application. Now, it's your turn:
 
-1. Build the demo app, duplicating it's functionality
-1. Create an empty repository on GitHub
-1. Set your app's git remote to be the created repo
-1. Push your changes
-1. Add your repo's url to the Google Classroom assignment and mark it as complete
+1. Clone this repo to your machine
+2. Create an `onboarding` branch to accomplish your work (`git checkout -b onboarding`)
+3. Build the functionality, making commits along the way
+4. Push your changes (`git push`)
+5. Create a pull request and add request a review from your instructor
 
 **Bonus points:** Error validation and storing more values with the user
